@@ -1,6 +1,6 @@
 # Netflix Clone
 
-Clone of the Netflix website as a light HTML CSS and JS excercise - [Take a look](https://tanejaaryan99.github.io/Netflix-Clone/)
+Clone of the Netflix website as a light HTML CSS and JS excercise - [Take a look](https://netflixclone-byat.netlify.app/)
 
 
 </div>
